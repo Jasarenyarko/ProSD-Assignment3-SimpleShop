@@ -1,0 +1,180 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop.Test/SimpleShop.Test.csproj": {}
+  },
+  "projects": {
+    "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop.Test/SimpleShop.Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop.Test/SimpleShop.Test.csproj",
+        "projectName": "SimpleShop.Test",
+        "projectPath": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop.Test/SimpleShop.Test.csproj",
+        "packagesPath": "/Users/jasarenyarko/.nuget/packages/",
+        "outputPath": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop.Test/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jasarenyarko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/SimpleShop.csproj": {
+                "projectPath": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/SimpleShop.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.1.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.3.0, )"
+            },
+            "NUnit.ConsoleRunner": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.2.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/SimpleShop.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/SimpleShop.csproj",
+        "projectName": "SimpleShop",
+        "projectPath": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/SimpleShop.csproj",
+        "packagesPath": "/Users/jasarenyarko/.nuget/packages/",
+        "outputPath": "/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jasarenyarko/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.osx-arm64",
+              "version": "[6.0.31, 6.0.31]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.31, 6.0.31]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

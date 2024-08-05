@@ -1,0 +1,14 @@
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/bin/Release/net6.0/SimpleShop
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/bin/Release/net6.0/SimpleShop.deps.json
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/bin/Release/net6.0/SimpleShop.runtimeconfig.json
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/bin/Release/net6.0/SimpleShop.dll
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/bin/Release/net6.0/SimpleShop.pdb
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.AssemblyInfoInputs.cache
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.AssemblyInfo.cs
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.csproj.CoreCompileInputs.cache
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.dll
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/refint/SimpleShop.dll
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.pdb
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/SimpleShop.genruntimeconfig.cache
+/Users/jasarenyarko/Desktop/ProSD/Assignment_3/assignment-3/SimpleShop/obj/Release/net6.0/ref/SimpleShop.dll
